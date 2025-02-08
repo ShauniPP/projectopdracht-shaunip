@@ -1,0 +1,138 @@
+[
+    {
+      "id": 1,
+      "naam": "Monkey D. Luffy",
+      "beschrijving": "Luffy is de hoofdpersoon van One Piece, die droomt van het worden van de Pirate King en de legendarische One Piece te vinden.",
+      "leeftijd": 19,
+      "actief": true,
+      "geboortedatum": "1505-05-05",
+      "profielAfbeelding": "assets/image/monkey-d-luffy.png",
+      "rol": "Kapitein",
+      "hobbies": ["Eten", "Vechten", "Avonturen beleven"],
+      "schip": "Thousand Sunny",
+      "extraInfo": {
+        "id": 201,
+        "favorieteFruit": "Gomu Gomu no Mi",
+        "status": true,
+        "afbeelding": "assets/image/gomu-gomu.png",
+        "kracht": "Rubberen lichaam",
+        "gevechtStijl": "Haki & Devil Fruit"
+      },
+      "adres": {
+        "id": 101,
+        "straat": "Goa Village",
+        "stad": "Foosha Village",
+        "postcode": "0001",
+        "land": "East Blue"
+      }
+    },
+    {
+      "id": 2,
+      "naam": "Roronoa Zoro",
+      "beschrijving": "Zoro is een meester zwaardvechter en de eerste metgezel van Luffy. Hij streeft ernaar de beste zwaardvechter ter wereld te worden.",
+      "leeftijd": 21,
+      "actief": true,
+      "geboortedatum": "1501-11-11",
+      "profielAfbeelding": "assets/image/zoro.png",
+      "rol": "Zwaardvechter",
+      "hobbies": ["Zwaardvechten", "Slaapt overal"],
+      "schip": "Thousand Sunny",
+      "extraInfo": {
+        "id": 202,
+        "favorieteFruit": "Geen",
+        "status": true,
+        "afbeelding": "",
+        "kracht": "Drie-zwaard stijl",
+        "gevechtStijl": "Santoryu & Haki"
+      },
+      "adres": {
+        "id": 102,
+        "straat": "Shimotsuki Village",
+        "stad": "East Blue",
+        "postcode": "0002",
+        "land": "East Blue"
+      }
+    },
+    {
+      "id": 3,
+      "naam": "Nami",
+      "beschrijving": "Nami is de navigatrice van de Straw Hat Pirates, en ze is briljant in het lezen van kaarten en het weer.",
+      "leeftijd": 20,
+      "actief": true,
+      "geboortedatum": "1502-07-03",
+      "profielAfbeelding": "assets/image/nami.png",
+      "rol": "Navigatrice",
+      "hobbies": ["Kaarten tekenen", "Diefstal (vroeger)", "Eten"],
+      "schip": "Thousand Sunny",
+      "extraInfo": {
+        "id": 203,
+        "favorieteFruit": "Geen",
+        "status": true,
+        "afbeelding": "",
+        "kracht": "Weermanipulatie",
+        "gevechtStijl": "Klima-Tact"
+      },
+      "adres": {
+        "id": 103,
+        "straat": "Konomi Village",
+        "stad": "East Blue",
+        "postcode": "0003",
+        "land": "East Blue"
+      }
+    },
+    {
+      "id": 4,
+      "naam": "Usopp",
+      "beschrijving": "Usopp is de scherpschutter van de Straw Hat Pirates, bekend om zijn leugens en verhalen. Hij heeft een enorme creativiteit als het gaat om het maken van wapens.",
+      "leeftijd": 19,
+      "actief": true,
+      "geboortedatum": "1505-04-01",
+      "profielAfbeelding": "assets/image/usopp.png",
+      "rol": "Scherpschutter",
+      "hobbies": ["Verhalen vertellen", "Vuurwerk maken", "Vechten"],
+      "schip": "Thousand Sunny",
+      "extraInfo": {
+        "id": 204,
+        "favorieteFruit": "Geen",
+        "status": true,
+        "afbeelding": "",
+        "kracht": "Sniper-expertise",
+        "gevechtStijl": "Distantieaanvallen"
+      },
+      "adres": {
+        "id": 104,
+        "straat": "Syrup Village",
+        "stad": "East Blue",
+        "postcode": "0004",
+        "land": "East Blue"
+      }
+    },
+    {
+      "id": 10,
+      "naam": "Shanks",
+      "beschrijving": "Shanks is een van de Yonko, en was de reden waarom Luffy besloot een piraat te worden. Hij is bekend om zijn rustige houding en machtige aanwezigheid.",
+      "leeftijd": 39,
+      "actief": true,
+      "geboortedatum": "1461-03-09",
+      "profielAfbeelding": "assets/image/shanks.png",
+      "rol": "Kapitein van de Red Hair Pirates",
+      "hobbies": ["Zwaardvechten", "Drinken", "Vriendschap onderhouden"],
+      "schip": "Red Force",
+      "extraInfo": {
+        "id": 210,
+        "favorieteFruit": "Geen",
+        "status": true,
+        "afbeelding": "",
+        "kracht": "Haki-expert",
+        "gevechtStijl": "Zwaardvechten & Haki"
+      },
+      "adres": {
+        "id": 110,
+        "straat": "New World",
+        "stad": "Grand Line",
+        "postcode": "0010",
+        "land": "Grand Line"
+      }
+    }
+  ]
+  
